@@ -1,0 +1,4 @@
+tramsformers
+pyngrok
+streamlit
+torch
